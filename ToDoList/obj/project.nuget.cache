@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "PUZYyhDbEqzkz3Fpfx1UXWlZTqNq+syZ+UTU/mJtltdwJeOCAtn8L7hcyQ8fX8yW92lSSx9j/FUYA9BdLiU/gg==",
+  "dgSpecHash": "8kpt6nSxBIylrP82X90/0eE8RsgrcCWUFztGEDgQfkOj9+FOv7QACRMim/Fay+1/Nong0RKyy5zDvBBcVMAI1Q==",
   "success": true,
   "projectFilePath": "G:\\C#\\ToDoList\\ToDoList\\ToDoList.csproj",
   "expectedPackageFiles": [
@@ -17,6 +17,7 @@
     "C:\\Users\\pkuma\\.nuget\\packages\\microsoft.entityframeworkcore.design\\7.0.10\\microsoft.entityframeworkcore.design.7.0.10.nupkg.sha512",
     "C:\\Users\\pkuma\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.10\\microsoft.entityframeworkcore.relational.7.0.10.nupkg.sha512",
     "C:\\Users\\pkuma\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\7.0.10\\microsoft.entityframeworkcore.sqlserver.7.0.10.nupkg.sha512",
+    "C:\\Users\\pkuma\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.10\\microsoft.entityframeworkcore.tools.7.0.10.nupkg.sha512",
     "C:\\Users\\pkuma\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\pkuma\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\pkuma\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
