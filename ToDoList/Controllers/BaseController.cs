@@ -6,13 +6,11 @@ namespace ToDoList.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    public class BaseController <TEntity, TRepository> : ControllerBase 
-        where TEntity: BaseEntity
-        where TRepository: IRepository<TEntity>
+    public class BaseController <T> : ControllerBase
     {
-        protected readonly TRepository _repository;
+        protected readonly BaseRepository<T> _repository;
 
-        public BaseController(BaseRepository<TRepository> repository)
+        public BaseController(BaseRepository<T> repository)
         {
             _repository = repository;
         }
